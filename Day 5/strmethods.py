@@ -1,0 +1,9 @@
+inp="-8"
+print(inp.isalpha())
+print(inp.isnumeric())
+print(inp.isalnum())
+print(inp.isascii())
+print(inp.islower())
+print(inp.isupper())
+print(inp.istitle())
+print(inp.isdigit())
