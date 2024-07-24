@@ -1,0 +1,5 @@
+emptylist=[]
+for i in range(1,101):
+  emptylist.append(i)
+  print(i,end="")
+
